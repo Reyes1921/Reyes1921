@@ -1,13 +1,13 @@
 ## Hola, soy Reyes Rondón👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyes1921&layout=compact&theme=material-palenight&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyes1921&layout=compact&theme=material-palenight&hide_border=true&locale=es" />
 
 ### Ingeniero en Informática 🚀
 
  ✉️ Contacto
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reyes-rondon/)
-[![Portafolio](https://img.shields.io/badge/Portfolio-65a30d?style=for-the-badge&&logoColor=white)](https://reyesrondon.dev/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-65a30d?style=for-the-badge&&logoColor=white)](https://reyesrondon.dev/)
 
 
 👨‍💻 Stack
