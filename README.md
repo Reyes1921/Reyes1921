@@ -12,7 +12,7 @@
 
 👨‍💻 Stack
 
-- Backend: ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp; ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs)&nbsp; ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+- Backend: ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp; ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs)&nbsp; ![Express](https://img.shields.io/badge/Express-05122A?style=flat&logo=express)&nbsp;
 - Frontend: ![ReactJs](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; ![NextJs Badge](https://img.shields.io/badge/NextJs-000000?style=flat&logo=nextdotjs&logoColor=ffffff)&nbsp;
 - Testing: ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest&logoColor=C21325)&nbsp; ![Testing Library](https://img.shields.io/badge/Testing-Library-05122A?style=flat&logo=testinglibrary)&nbsp;
 - CI/CD: ![Github Actions](https://img.shields.io/badge/-Github%20Actions-05122A?style=flat&logo=github)&nbsp;
