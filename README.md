@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyes1921&layout=compact&theme=material-palenight&hide_border=true&locale=es" />
 
-### Ingeniero en Informática 🚀
+### Ingeniero en Informática 💻
 
  ✉️ Contacto
 
